@@ -6,8 +6,11 @@ In this project, I use NLP to classify tweets as disaster or non-disaster tweets
 Inside the notebooks:  
 
 [Project_EDA notebook](https://github.com/altineri/NLP_Project/blob/main/Project_EDA.ipynb): Exploratory data analysis has been performed here. 
+
 [Project-Models](https://github.com/altineri/NLP_Project/blob/main/Project-Models.ipynb): Text processing steps performed and models (except BERT) built and trained here.
+
 [Project-BERT](https://github.com/altineri/NLP_Project/blob/main/Project-BERT.ipynb): BERT model has been built and trained here.
+
 
 References: 
 
