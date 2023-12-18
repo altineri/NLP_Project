@@ -11,6 +11,8 @@ Inside the notebooks:
 
 [Project-BERT](https://github.com/altineri/NLP_Project/blob/main/Project-BERT.ipynb): BERT model has been built and trained here.
 
+[Project-Word2Vec+Models](https://github.com/altineri/NLP_Project/blob/main/Project-Word2Vec%2BModels.ipynb): Texts were vectorized using Word2Vect and models (except BERT) built and trained here using the outputs of Word2Vect.
+
 
 References: 
 
